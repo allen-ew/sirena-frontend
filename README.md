@@ -1,2 +1,3 @@
 # sirena-frontend
-Repositorio dedicado a 
+Repositorio [Frontend]
+Gestor de horarios para la parte de posgrados de la universidad del cauca.
